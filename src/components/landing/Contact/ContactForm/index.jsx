@@ -115,6 +115,7 @@ const ContactForm = () => (
 				{values.success && (
 					<InputField>
 						<Center>
+							<h1>TEST</h1>
 							<h4>
 								Your message has been successfully sent, I will get back to you
 								ASAP!
